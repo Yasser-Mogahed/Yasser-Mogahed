@@ -189,13 +189,13 @@ Solo capstone for the Microsoft Student Club Data Science program. Independently
 ---
 
 ## 🎯 Expertise Map
-
+ 
 ```
 Data Science & ML          ████████████████████  Expert
 Business Intelligence      ████████████████████  Expert
 Python / Pandas / SQL      ████████████████████  Expert
-Full-Stack Web Dev         ██████████████████░░  Advanced
-Power BI / DAX             ████████████████░░░░  Advanced
+Full-Stack Web Dev         ████████████████████  Expert
+Power BI / DAX             ████████████████████  Expert
 FastAPI / Docker / Azure   ████████████████░░░░  Advanced
 NLP & Text Analytics       ██████████████░░░░░░  Proficient
 Deep Learning              ██████████░░░░░░░░░░  Fundamentals
