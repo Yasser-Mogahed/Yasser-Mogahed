@@ -27,7 +27,6 @@ yasser = {
     "experience" : "2+ years | End-to-end ML pipelines, BI platforms, NLP, predictive modeling",
     "stack"      : ["Python", "SQL", "Power BI", "FastAPI", "Azure", "Docker", "MLflow"],
     "status"     : "Open to Data Science & BI opportunities 🚀",
-    "fun_fact"   : "I once built a flower bouquet in pure SVG/HTML as a gift — yes, really 🌹",
 }
 ```
 
