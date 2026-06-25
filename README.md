@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=1F387F&center=true&vCenter=true&multiline=false&width=600&lines=Building+end-to-end+ML+pipelines+%F0%9F%A4%96;Architecting+production+BI+platforms+%F0%9F%93%8A;Leading+cross-functional+data+teams+%F0%9F%9A%80;Turning+raw+data+into+business+impact+%F0%9F%92%A1)](https://github.com/Yasser-Mogahed)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=1F387F&center=true&vCenter=true&multiline=false&width=650&lines=Building+end-to-end+ML+pipelines+%F0%9F%A4%96;Architecting+production+BI+platforms+%F0%9F%93%8A;Leading+cross-functional+data+teams+%F0%9F%9A%80;Full-Stack+Dev+%2B+Data+Science+%E2%80%94+rare+combo+%F0%9F%94%A5;Turning+raw+data+into+business+impact+%F0%9F%92%A1)](https://github.com/Yasser-Mogahed)
 
 </div>
 
@@ -42,9 +42,11 @@ yasser = {
 | **1st Place** | Bank Analytics Datathon — out of all competing college teams |
 | **🏅 Best Member** | IEEE ERU Projects Team — inaugural cohort, promoted to High Board |
 | **⭐ Perfect Score** | Microsoft Student Club ML Graduation Project |
+| **📜 99% Score** | AMIT Learning Data Analysis Diploma — top-tier professional certification |
 | **📈 R² = 0.8244** | Car Resale Price Prediction — +22.6% improvement over baseline |
 | **👥 7-Person Team Lead** | Olist E-Commerce end-to-end ML & BI platform (100K+ orders) |
 | **🗓️ 100% Conflict-Free** | AI timetable scheduler for 50+ courses across 4 university levels |
+| **🌐 Rare Hybrid** | One of the few Data Scientists who also ships production full-stack web platforms |
 
 </div>
 
@@ -61,6 +63,16 @@ yasser = {
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Full-Stack Web Development** *(The rare Data Scientist who ships the frontend too)*
+
+![REST API](https://img.shields.io/badge/REST%20API-1F387F?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Interactive Dashboards](https://img.shields.io/badge/Interactive%20Dashboards-4A90D9?style=for-the-badge&logoColor=white)
+![Geospatial Maps](https://img.shields.io/badge/Geospatial%20Maps-1F387F?style=for-the-badge&logoColor=white)
 
 **ML & Data Science**
 
@@ -169,6 +181,7 @@ Solo capstone for the Microsoft Student Club Data Science program. Independently
 Data Science & ML          ████████████████████  Expert
 Business Intelligence      ████████████████████  Expert
 Python / Pandas / SQL      ████████████████████  Expert
+Full-Stack Web Dev         ██████████████████░░  Advanced
 Power BI / DAX             ████████████████░░░░  Advanced
 FastAPI / Docker / Azure   ████████████████░░░░  Advanced
 NLP & Text Analytics       ██████████████░░░░░░  Proficient
