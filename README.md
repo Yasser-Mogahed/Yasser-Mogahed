@@ -101,6 +101,20 @@ yasser = {
 
 ---
 
+## 🌐 Leadership & Community
+
+<div align="center">
+
+| Role | Organization | Impact |
+|:---|:---|:---|
+| **High Board — Projects Team Leader** | IEEE ERU Student Branch | Leading 24-member Projects Committee |
+| **Best Member** | IEEE ERU Projects Team (inaugural cohort) | Promoted to High Board for outstanding contributions |
+| **Data Science Mentee** | Microsoft Student Club, Kafr El Sheikh | 10+ sessions, 15+ workshops, Perfect graduation score |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🛒 Olist E-Commerce BI & ML Platform
@@ -189,19 +203,7 @@ Deep Learning              ██████████░░░░░░░�
 
 ---
 
-## 🌐 Leadership & Community
 
-<div align="center">
-
-| Role | Organization | Impact |
-|:---|:---|:---|
-| **High Board — Projects Team Leader** | IEEE ERU Student Branch | Leading 24-member Projects Committee |
-| **Best Member** | IEEE ERU Projects Team (inaugural cohort) | Promoted to High Board for outstanding contributions |
-| **Data Science Mentee** | Microsoft Student Club, Kafr El Sheikh | 10+ sessions, 15+ workshops, Perfect graduation score |
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
