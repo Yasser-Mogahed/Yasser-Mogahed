@@ -135,6 +135,15 @@ Led a 4-person team to **1st place** in a college-level Bank Analytics Datathon.
 
 ---
 
+### 🗽 Metro Fleet — NYC Used Car Market Intelligence Dashboard
+> **R · R Shiny · ggplot2 · Plotly · dplyr**
+
+A capstone R Shiny dashboard delivering deep market intelligence on the New York City used car market. Features an elaborate animated landing page, an **AI Price Predictor** with real-time valuation, and a fully custom visual identity — combining advanced data analysis with a polished, production-grade interactive UI. Demonstrates end-to-end command of R's data science ecosystem from wrangling and modeling through to deployed interactive application.
+
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-1F387F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yasser-Mogahed/R_New_York_Car_Project)
+
+---
+
 ### 🚗 Car Resale Price Prediction & Market Intelligence Dashboard
 > **Python · Scikit-learn · Random Forest · ElasticNet · Streamlit**
 
@@ -167,7 +176,7 @@ Engineered a 3-page Power BI KPI dashboard with 8+ custom DAX measures, drill-th
 
 Solo capstone for the Microsoft Student Club Data Science program. Independently designed and delivered a complete end-to-end ML project — preprocessing, feature engineering, model training, evaluation (Accuracy, RMSE, ROC/AUC), and deployment-ready output. **Officially graduated with a perfect score** on all evaluated criteria.
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-1F387F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yasser-Mogahed/MSC-MLProject)
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-1F387F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yasser-Mogahed/MSC-ML-Project)
 
 ---
 
@@ -189,7 +198,7 @@ Solo capstone for the Microsoft Student Club Data Science program. Independently
 ---
 
 ## 🎯 Expertise Map
- 
+
 ```
 Data Science & ML          ████████████████████  Expert
 Business Intelligence      ████████████████████  Expert
@@ -201,9 +210,8 @@ NLP & Text Analytics       ██████████████░░░�
 Deep Learning              ██████████░░░░░░░░░░  Fundamentals
 ```
 
+
 ---
-
-
 
 ## 🤝 Connect With Me
 
